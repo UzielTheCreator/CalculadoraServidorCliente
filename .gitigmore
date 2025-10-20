@@ -1,0 +1,6 @@
+# Archivos de compilación
+bin/
+*.class
+
+# Configuración local
+.vscode/
